@@ -42,3 +42,11 @@ end
 plt = Plot.new scatters
 plt.savefig("images/scatters.png")
 plt.close
+
+x = range of 1 to 90
+x = range of 1 to 90, times: 80
+x = range of 1 to 90, step: 0.1
+
+represent a as b
+
+y = evaluate f with range of 1 to 90

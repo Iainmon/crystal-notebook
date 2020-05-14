@@ -19,7 +19,7 @@ dependencies:
     github: neutrinog/CrystGLFW
     branch: support-crystal-0.31
   matplotcr:
-    github: ruivieira/matplotcr
+    github: iainmon/matplotcr
 
 # authors:
 #   - name <email@example.com>
