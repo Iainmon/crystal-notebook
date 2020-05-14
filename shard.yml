@@ -1,0 +1,38 @@
+name: playground
+version: 0.1.0
+crystal: 0.34.0
+license: MIT
+
+targets:
+  playground:
+    main: main.cr
+
+dependencies:
+  aquaplot:
+    github: crystal-data/aquaplot
+  celestine:
+    github: redcodefinal/celestine
+  lib_gl:
+    github: calebuharrison/LibGL
+    branch: master
+  crystglfw:
+    github: neutrinog/CrystGLFW
+    branch: support-crystal-0.31
+  matplotcr:
+    github: ruivieira/matplotcr
+
+# authors:
+#   - name <email@example.com>
+
+# description: |
+#   Short description of 
+
+# dependencies:
+#   pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
